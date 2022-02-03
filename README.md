@@ -1,6 +1,6 @@
 # weather
 
-> My bee&#39;s knees Vue project
+> My Vue project
 
 ## Commands
 
